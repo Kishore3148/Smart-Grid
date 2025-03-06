@@ -1,0 +1,11 @@
+Timestamp,Voltage (V),Current (A),Active Power (kW),Reactive Power (kVAR),Apparent Power (kVA),Power Factor,Frequency (Hz),Load Type,Renewable Energy (%),Battery Storage (%),Grid Reliability Index,Fault Detection,Energy Demand (kWh),Transformer Load (%),Weather Condition,Temperature (°C),Humidity (%)
+2025-03-06 12:00,230,5,1.15,0.2,1.17,0.95,50,Residential,40,85,92,No,1.2,75,Sunny,30,50
+2025-03-06 12:01,231,4.8,1.11,0.18,1.13,0.96,50,Commercial,30,80,90,No,1.1,68,Cloudy,28,55
+2025-03-06 12:02,228,6,1.30,0.22,1.32,0.94,49.8,Industrial,25,78,87,No,1.3,80,Rainy,25,70
+2025-03-06 12:03,235,4.5,1.05,0.15,1.06,0.97,50.1,Residential,50,90,95,No,1.0,60,Sunny,32,45
+2025-03-06 12:04,229,5.2,1.19,0.21,1.21,0.95,49.9,Residential,45,83,91,No,1.2,72,Cloudy,29,60
+2025-03-06 12:05,232,4.9,1.14,0.19,1.16,0.96,50,Commercial,38,77,88,No,1.1,65,Rainy,27,75
+2025-03-06 12:06,227,5.7,1.28,0.23,1.30,0.94,49.7,Industrial,20,75,85,Yes,1.4,85,Sunny,31,48
+2025-03-06 12:07,234,4.6,1.07,0.16,1.08,0.97,50.2,Residential,55,93,96,No,1.0,58,Cloudy,26,65
+2025-03-06 12:08,231,5,1.20,0.22,1.22,0.95,49.8,Commercial,33,79,89,No,1.2,70,Rainy,24,80
+2025-03-06 12:09,230,5.3,1.25,0.2,1.27,0.95,50,Industrial,28,76,86,Yes,1.3,82,Sunny,30,52
