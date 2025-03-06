@@ -10,7 +10,7 @@ Visualization Graphs: Insights into power usage, renewable energy trends, voltag
 
 How to Use
 1️⃣ Clone the Repository
-git clone https://github.com/yourusername/smart-grid-monitoring.git
+git clone https://github.com/Kishore3148/Smart-Grid-Monitoring-System.git
 cd smart-grid-monitoring
 
 2️⃣ Upload CSV to Google Colab
