@@ -1,0 +1,12 @@
+Timestamp,Voltage (V),Current (A),Active Power (kW),Frequency (Hz),Reactive Power (kVAR),Power Factor,Load Type,Renewable Energy (%),Battery Storage (%),Grid Reliability Index,Fault Detection
+2025-03-06 12:00,230,5,1.15,50,0.2,0.95,Residential,40,85,92,No
+2025-03-06 12:01,231,4.8,1.11,50,0.18,0.96,Commercial,30,80,90,No
+2025-03-06 12:02,228,6,1.30,49.8,0.22,0.94,Industrial,25,78,87,No
+2025-03-06 12:03,235,4.5,1.05,50.1,0.15,0.97,Residential,50,90,95,No
+2025-03-06 12:04,229,5.2,1.19,49.9,0.21,0.95,Residential,45,83,91,No
+2025-03-06 12:05,232,4.9,1.14,50,0.19,0.96,Commercial,38,77,88,No
+2025-03-06 12:06,227,5.7,1.28,49.7,0.23,0.94,Industrial,20,75,85,Yes
+2025-03-06 12:07,234,4.6,1.07,50.2,0.16,0.97,Residential,55,93,96,No
+2025-03-06 12:08,231,5,1.20,49.8,0.22,0.95,Commercial,33,79,89,No
+2025-03-06 12:09,230,5.3,1.25,50,0.2,0.95,Industrial,28,76,86,Yes
+2025-03-06 12:10,228,6.1,1.32,49.6,0.24,0.93,Residential,60,95,97,No
